@@ -1,0 +1,54 @@
+body {
+    background-color: #7fffd4;
+}
+
+div {
+    display: block;
+}
+
+.archive {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #5f9ea0;
+}
+
+.article {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header a {
+    float: right;
+    text-align: right;
+}
+
+.article-info div {
+    display: inline;
+}
+
+.article-created-date {
+    float: right;
+    text-align: right;
+}
+
+.center_pos {
+    text-align: center;
+}
+
+.article-text {
+    text-align: justify;
+}
+.post-title {
+    font-size: 18pt;
+}
+.one-post.folded .article-author{
+    display: none;
+}
+.one-post.folded .article-created-date{
+    display: none;
+}
+.one-post.folded .article-text{
+    display: none;
+}
